@@ -1,0 +1,10 @@
+1. ACE_MP5A4
+2. ACE_SOC_M4A1_SD_9
+3. SCAR_H_LNG_Sniper_SD
+4. ACE_M4A1_GL_UP
+5. m8_sharpshooter
+6. ACE_HK417_leupold
+7. ACE_M27_IAR
+8. ACE_M4_Aim
+9. m8_tws
+10. m8_compact

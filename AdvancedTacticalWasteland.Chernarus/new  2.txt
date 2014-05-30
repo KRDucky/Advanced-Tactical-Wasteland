@@ -1,0 +1,10 @@
+1. ACE_M4A1_F
+2. ACE_M4_C M4
+3. ACE_M4_Eotech_F
+4. ACE_M4A1_RCO2_GL_F
+5. ACE_M27_IAR_ACOG
+6. m8_holo_sd
+7. m8_carbineGL
+8. ACE_SOC_M4A1_GL_SD_F
+9. m8_tws_sd
+10. ACE_m16a2_scope

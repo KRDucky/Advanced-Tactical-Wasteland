@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=pmt_prevailingwinds
+Pbo Type is: Arma Addon
+Sha: 'B5000C511E6083EB180548DA878FA9C4836A5D54'
+//////</HEADER>//////

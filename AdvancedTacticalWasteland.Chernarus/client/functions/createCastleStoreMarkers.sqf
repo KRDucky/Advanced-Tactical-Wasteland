@@ -1,0 +1,1 @@
+[ [["cs1", 200]], "Grid", "ColorBlue", 0.5, "ELLIPSE", "cs", ["Castle Store","ColorGreen"] ] execVM "client\functions\createMarkers.sqf";

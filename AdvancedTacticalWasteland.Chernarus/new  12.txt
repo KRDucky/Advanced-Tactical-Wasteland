@@ -1,0 +1,10 @@
+1. ACE_M72
+2. ACE_SOC_M4A1_Eotech_4x
+3. ACE_SOC_M4A1
+4. Stinger
+5. ACE_M4_F
+6. ACE_M86PDM
+7. ACE_Flashbang
+8. ACE_M4_C M4
+9. ACE_Rope_M_50
+10. ACE_M27_IAR_ACOG

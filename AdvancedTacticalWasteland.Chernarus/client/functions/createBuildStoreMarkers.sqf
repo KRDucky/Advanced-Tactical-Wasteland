@@ -1,0 +1,2 @@
+_buildStores = [["bs1", 200],["bs2", 200],["bs3", 200],["bs3_1", 200],["bs3_2", 200]];
+[ _buildStores, "Grid", "ColorBlue", 0.5, "ELLIPSE", "bs", ["Building Store","ColorGreen"] ] execVM "client\functions\createMarkers.sqf";
