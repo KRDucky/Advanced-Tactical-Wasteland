@@ -73,3 +73,4 @@ if(X_Server) then {
 [] execVM "BTK\Gasmask\Start.sqf";
 [] execVM "EF\engiaddactions.sqf";
 [] execVM "EF\MinesweepC.sqf";
+[] execVM "persistentscripts\init.sqf";

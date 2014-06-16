@@ -1,5 +1,0 @@
-1. ACE_VS21BPANEL_M
-2. ACE_SOFLAMTripod
-3. M40A3
-4. ACE_VS21CPANEL_M
-5. ACE_Battery_Rangefinder

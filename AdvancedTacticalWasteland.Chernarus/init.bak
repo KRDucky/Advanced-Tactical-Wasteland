@@ -1,7 +1,0 @@
-true spawn {
-	if(!isDedicated) then {
-		titleText ["Please wait for your player to setup", "BLACK OUT", 1];
-		waitUntil {player == player};
-		client_initEH = player addEventHandler ["Respawn", {removeAllWeapons (_this select 0);}];
-	};
-};
