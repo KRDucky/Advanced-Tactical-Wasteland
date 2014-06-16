@@ -11,7 +11,7 @@
 
 /*
  * There are two ways to manage new objects with the logistics system. The first is to add these objects in the
- * folowing appropriate lists. The second is to create a new external file in the /addons_config/ directory,
+ * following appropriate lists. The second is to create a new external file in the /addons_config/ directory,
  * according to the same scheme as the existing ones, and to add a #include at the end of this current file.
  * 
  * Deux moyens existent pour gérer de nouveaux objets avec le système logistique. Le premier consiste à ajouter
@@ -26,20 +26,7 @@
  * Liste des noms de classes des véhicules terrestres pouvant remorquer des objets remorquables.
  */
 R3F_LOG_CFG_remorqueurs = [
-	"Truck",
-    "Car",
-	"TowingTractor",
-	"Tractor",
-	"BRDM2_Base",
-	"BTR90_Base",
-	"GAZ_Vodnik_HMG",
-	"LAV25_Base",
-	"StrykerBase_EP1",
-	"MLRS",
-	"Fishing_Boat",
-	"RHIB",
-	"Smallboat_1",
-	"smallboat_2"
+	
 ];
 
 /**
@@ -47,32 +34,7 @@ R3F_LOG_CFG_remorqueurs = [
  * Liste des noms de classes des objets remorquables.
  */
 R3F_LOG_CFG_objets_remorquables = [
-	"HMMWV_Base",
-	"Truck",
-	"GAZ_Vodnik_HMG",
-	"BRDM2_Base",
-	"BTR40_MG_base_EP1",
-	"Ship",
-	"Ikarus",
-	"Tractor",
-	"UAZ_Base",
-	"SkodaBase",
-	"hilux1_civil_1_open",
-	"Pickup_PK_base",
-	"Offroad_DSHKM_base",
-	"Lada_base",
-	"VWGolf",
-	"hilux1_civil_3_open_EP1",
-	"LandRover_Base",
-	"S1203_TK_CIV_EP1",
-	"ArmoredSUV_Base_PMC",
-	"SUV_Base_EP1",
-	"Volha_TK_CIV_Base_EP1",
-	"BAF_Jackal2_BASE_D",
-	"An2_Base_EP1",
-	"M119",
-	"D30_base",
-	"ZU23_base"
+	
 ];
 
 /****** LIFT WITH VEHICLE / HELIPORTER AVEC VEHICULE ******/
@@ -82,16 +44,7 @@ R3F_LOG_CFG_objets_remorquables = [
  * Liste des noms de classes des véhicules aériens pouvant héliporter des objets héliportables.
  */
 R3F_LOG_CFG_heliporteurs = [
-	"CH47_base_EP1",
-	"Mi17_base",
-	"Mi24_Base",
-	"UH1H_base",
-	"UH1_Base",
-	"UH60_Base",
-	"MV22",
-	"BAF_Merlin_HC3_D",
-	"Ka60_Base_PMC",
-	"Mi24_Base"
+	
 ];
 
 /**
@@ -100,36 +53,7 @@ R3F_LOG_CFG_heliporteurs = [
  */
 R3F_LOG_CFG_objets_heliportables = [
 
-	"HMMWV_Base",
-	"Truck",
-	"GAZ_Vodnik_HMG",
-	"BTR40_MG_base_EP1",
-	"Ship",
-	"Ikarus",
-	"Tractor",
-	"UAZ_Base",
-	"SkodaBase",
-	"hilux1_civil_1_open",
-	"Pickup_PK_base",
-	"Offroad_DSHKM_base",
-	"Lada_base",
-	"VWGolf",
-	"hilux1_civil_3_open_EP1",
-	"LandRover_Base",
-	"S1203_TK_CIV_EP1",
-	"ArmoredSUV_Base_PMC",
-	"SUV_Base_EP1",
-	"Volha_TK_CIV_Base_EP1",
-	"BAF_Jackal2_BASE_D",
-	"M119",
-	"D30_base",
-	"ZU23_base",
-
-	"USBasicAmmunitionBox",
-	"RUBasicAmmunitionBox",
-	"LocalBasicAmmunitionBox",
-	"GuerillaCacheBox",
-	"ReammoBox_EP1"
+	
 ];
 
 

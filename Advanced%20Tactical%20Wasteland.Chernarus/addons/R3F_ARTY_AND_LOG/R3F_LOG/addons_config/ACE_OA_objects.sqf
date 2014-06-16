@@ -23,7 +23,7 @@ if (isClass (configFile >> "CfgVehicles" >> "ACE_Required_Logic")) then
 	 */
 	R3F_LOG_CFG_remorqueurs = R3F_LOG_CFG_remorqueurs +
 	[
-		"ACE_Truck5tMG_Base"
+		
 	];
 	
 	/**
@@ -32,7 +32,7 @@ if (isClass (configFile >> "CfgVehicles" >> "ACE_Required_Logic")) then
 	 */
 	R3F_LOG_CFG_objets_remorquables = R3F_LOG_CFG_objets_remorquables +
 	[
-		"ACE_EASA_Vehicle"
+		
 	];
 	
 	
@@ -53,9 +53,7 @@ if (isClass (configFile >> "CfgVehicles" >> "ACE_Required_Logic")) then
 	 */
 	R3F_LOG_CFG_objets_heliportables = R3F_LOG_CFG_objets_heliportables +
 	[
-		"ACE_Truck5tMG_Base",
-		"ACE_Lifeboat",
-		"ACE_EASA_Vehicle"
+		
 	];
 	
 	
